@@ -1,0 +1,12 @@
+/*.text{
+    display: none;
+}
+.show_text .text{
+    display: inline-block;
+}*/
+.text{
+    display: none;
+}
+.show_text .text{
+    display: block;
+}
